@@ -41,3 +41,19 @@ FEATURES
 >>Peril Distribution Pie Chart
 
 >>Excel Report Export
+
+
+SOFTWARES USED
+
+
+>>Python 3
+
+>>Pandas
+
+>>Matplotlib
+
+>>OpenPyXL
+
+>>Git
+
+>>GitHub

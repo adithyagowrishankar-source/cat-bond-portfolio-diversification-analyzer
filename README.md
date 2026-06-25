@@ -8,23 +8,36 @@ The analyzer processes catastrophe bond data from a CSV file, calculates key ris
 FEATURES
 
 
-Import catastrophe bond portfolio data from CSV
+>>Import catastrophe bond portfolio data from CSV
 
-Calculate Expected Loss for each bond
+>>Calculate Expected Loss for each bond
 
-Calculate Risk-Adjusted Return
+>>Calculate Risk-Adjusted Return
 
-Portfolio Diversification Analysis
-Portfolio Health Rating
-Region-wise Risk Analysis
-Peril-wise Risk Analysis
-Risk Ranking of Bonds
-Portfolio Allocation Analysis
-Best Bond Recommendation
-Risk Category Classification
-Stress Testing Scenario Analysis
-Region Concentration Analysis
-Bar Chart Visualization
-Portfolio Allocation Pie Chart
-Peril Distribution Pie Chart
-Excel Report Export
+>>Portfolio Diversification Analysis
+
+>>Portfolio Health Rating
+
+>>Region-wise Risk Analysis
+
+>>Peril-wise Risk Analysis
+
+>>Risk Ranking of Bonds
+
+>>Portfolio Allocation Analysis
+
+>>Best Bond Recommendation
+
+>>Risk Category Classification
+
+>>Stress Testing Scenario Analysis
+
+>>Region Concentration Analysis
+
+>>Bar Chart Visualization
+
+>>Portfolio Allocation Pie Chart
+
+>>Peril Distribution Pie Chart
+
+>>Excel Report Export

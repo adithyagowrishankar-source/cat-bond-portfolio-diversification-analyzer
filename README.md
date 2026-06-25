@@ -57,3 +57,19 @@ SOFTWARES USED
 >>Git
 
 >>GitHub
+
+
+PROJECT STRUCTURE
+
+CatBond-Portfolio-Diversification-Analyzer/
+
+
+├── main.py
+
+├── portfolio_data.csv
+
+├── cat_bond_analysis_report.xlsx
+
+├── requirements.txt
+
+└── README.md

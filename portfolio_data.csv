@@ -1,0 +1,6 @@
+Bond,Region,Peril,Investment,Expected_Return,Probability_of_Loss
+Atlas Re,USA,Hurricane,1000000,0.12,0.03
+Sakura Shield,Japan,Earthquake,800000,0.10,0.04
+Euro Flood Protect,Europe,Flood,600000,0.08,0.02
+Wildfire Guard,USA,Wildfire,500000,0.09,0.05
+Cyclone Secure,Australia,Cyclone,700000,0.11,0.03

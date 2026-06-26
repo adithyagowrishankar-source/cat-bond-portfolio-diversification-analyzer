@@ -101,10 +101,44 @@ Increase in Loss: $24,000
 
 REGION CONCENTRATION ANALYSIS
 =============================================
-Australia    19.44%
+Australia  -  19.44%
 
-Europe       16.67%
+Europe     -  16.67%
 
-Japan        22.22%
+Japan      -  22.22%
 
-USA          41.67%
+USA        -  41.67%
+
+
+VISUALIZATIONS
+
+The project generates:
+
+Region-wise Expected Loss Bar Chart
+
+Portfolio Allocation Pie Chart
+
+Peril-wise Expected Loss Distribution Pie Chart
+
+
+HOW TO RUN:
+
+1. Clone the Repository
+git clone <repository-url>
+
+2. Navigate to the Project Folder
+cd CatBond-Portfolio-Diversification-Analyzer
+
+3. Install Dependencies
+pip install -r requirements.txt
+
+4. Run the Program
+python3 main.py
+
+5. View Results
+The program will:
+Display portfolio analytics in the terminal
+Generate charts
+Export an Excel report named:
+
+cat_bond_analysis_report.xlsx

@@ -63,7 +63,7 @@ PROJECT STRUCTURE
 
 CatBond-Portfolio-Diversification-Analyzer/ 
 
-│ ├── main.py 
+├── main.py 
 
 ├── portfolio_data.csv 
 
@@ -72,3 +72,39 @@ CatBond-Portfolio-Diversification-Analyzer/
 ├── requirements.txt 
 
 └── README.md
+
+
+SAMPLE OUTPUT
+
+PORTFOLIO SUMMARY
+=============================================
+
+Total Investment: $3,600,000
+
+Total Expected Loss: $120,000
+
+Number of Regions: 4
+
+Number of Perils: 5
+
+Diversification Score: 90/100
+
+Portfolio Health: Excellent
+
+STRESS TEST SCENARIO
+=============================================
+Current Expected Loss: $120,000
+
+Stressed Expected Loss: $144,000
+
+Increase in Loss: $24,000
+
+REGION CONCENTRATION ANALYSIS
+=============================================
+Australia    19.44%
+
+Europe       16.67%
+
+Japan        22.22%
+
+USA          41.67%

@@ -138,7 +138,11 @@ python3 main.py
 5. View Results
 The program will:
 Display portfolio analytics in the terminal
+
 Generate charts
+
 Export an Excel report named:
 
 cat_bond_analysis_report.xlsx
+
+
